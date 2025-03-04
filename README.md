@@ -9,7 +9,7 @@
 
 [ :books: ] I love **math, chess, and calisthenics**, and I’m always up for a challenge! I’ve also led teams in **Smart India Hackathon (SIH)** and **GDSC projects**.
 
-[ :phone: ] You can contact me via `name.bsc23[at]rvu.edu.in`
+[ :phone: ] You can contact me via `abhisheknair616@gmail.com`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
